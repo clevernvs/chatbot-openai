@@ -1,0 +1,1 @@
+Aplicação simples de Chatbot utilizando a API da OpenAI para o ChatGPT
