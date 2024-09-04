@@ -14,3 +14,20 @@ Aplicação simples de Chatbot utilizando a API da OpenAI para o ChatGPT.
 <p>
 - Integração com a API do OpenAI 
 </p>
+
+
+<h1> Como utilizar o projeto: </h1>
+<p>
+Instalando as dependências
+
+```sh
+pip install -r requirements.txt
+```
+
+Ativar o ambiente de desenvolvimento
+
+```sh
+.venv\Scripts\activate 
+```
+
+</p>
